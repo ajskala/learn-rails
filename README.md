@@ -79,3 +79,8 @@ Verify with `bin/rails test` and/or by hitting the running server.
 2. **`02-activerecord-and-migrations`** — migrations, ActiveRecord models and
    validations, the Rails console, RESTful routes via `resources`, and
    model/request tests.
+3. **`03-forms-and-crud`** — the rest of CRUD: `form_with`, strong parameters,
+   flash messages, partials, and `button_to` for non-GET actions.
+4. **`04-associations`** — `has_many`/`belongs_to`, the `rails generate model`
+   generator, foreign key constraints, nested routes, and scoping nested
+   lookups for security.
