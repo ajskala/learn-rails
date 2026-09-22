@@ -76,3 +76,6 @@ Verify with `bin/rails test` and/or by hitting the running server.
 1. **`01-app-anatomy-and-first-route`** — MVC request flow, Rails'
    convention-over-configuration philosophy, routes, controllers, ERB views, and
    a minitest-based check step.
+2. **`02-activerecord-and-migrations`** — migrations, ActiveRecord models and
+   validations, the Rails console, RESTful routes via `resources`, and
+   model/request tests.
